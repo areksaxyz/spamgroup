@@ -1,0 +1,15 @@
+2025/02/03-00:18:34.817 1f04 Reusing MANIFEST C:\Users\ARGA\Documents\mybot\tokens\mySession\Default\Local Storage\leveldb/MANIFEST-000001
+2025/02/03-00:18:34.821 1f04 Recovering log #106
+2025/02/03-00:18:34.840 1f04 Reusing old log C:\Users\ARGA\Documents\mybot\tokens\mySession\Default\Local Storage\leveldb/000106.log 
+2025/02/03-00:42:42.935 1f04 Level-0 table #110: started
+2025/02/03-00:42:42.989 1f04 Level-0 table #110: 18671 bytes OK
+2025/02/03-00:42:42.999 1f04 Delete type=0 #106
+2025/02/03-00:42:43.005 1f04 Compacting 4@0 + 1@1 files
+2025/02/03-00:42:43.016 1f04 Generated table #111@0: 530 keys, 20967 bytes
+2025/02/03-00:42:43.016 1f04 Compacted 4@0 + 1@1 files => 20967 bytes
+2025/02/03-00:42:43.019 1f04 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/03-00:42:43.023 1f04 Delete type=2 #98
+2025/02/03-00:42:43.023 1f04 Delete type=2 #101
+2025/02/03-00:42:43.024 1f04 Delete type=2 #104
+2025/02/03-00:42:43.026 1f04 Delete type=2 #107
+2025/02/03-00:42:43.026 1f04 Delete type=2 #110

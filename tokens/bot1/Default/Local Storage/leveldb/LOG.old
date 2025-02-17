@@ -1,0 +1,6 @@
+2025/02/03-00:05:44.257 3ebc Reusing MANIFEST C:\Users\ARGA\Documents\mybot\tokens\bot1\Default\Local Storage\leveldb/MANIFEST-000001
+2025/02/03-00:05:44.274 3ebc Recovering log #4
+2025/02/03-00:05:44.306 3ebc Reusing old log C:\Users\ARGA\Documents\mybot\tokens\bot1\Default\Local Storage\leveldb/000004.log 
+2025/02/03-00:08:47.966 3ebc Level-0 table #8: started
+2025/02/03-00:08:48.023 3ebc Level-0 table #8: 18278 bytes OK
+2025/02/03-00:08:48.042 3ebc Delete type=0 #4

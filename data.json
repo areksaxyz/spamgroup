@@ -1,0 +1,12 @@
+{
+  "pending_contacts": [],
+  "created_groups": 96,
+  "kicked_members": [],
+  "botStats": {
+    "totalGroupsCreated": 0,
+    "totalKicks": 0,
+    "totalSpamTargets": 0,
+    "totalMessagesSent": 7,
+    "totalErrors": 18
+  }
+}

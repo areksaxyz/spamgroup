@@ -1,0 +1,137 @@
+[2025-01-31T17:31:01.745Z] ERROR: showMenu is not defined
+ReferenceError: showMenu is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\bot.js:523:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-31T17:31:48.117Z] ERROR: showMenu is not defined
+ReferenceError: showMenu is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\bot.js:523:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-31T17:32:11.538Z] ERROR: client.sendMessage is not a function
+TypeError: client.sendMessage is not a function
+    at sendCreatorVCard (C:\Users\ARGA\Documents\mybot\bot.js:368:18)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\bot.js:514:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-31T17:32:17.617Z] ERROR: client.sendMessage is not a function
+TypeError: client.sendMessage is not a function
+    at sendCreatorVCard (C:\Users\ARGA\Documents\mybot\bot.js:368:18)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\bot.js:514:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-31T18:21:13.382Z] ERROR: client.sendMessage is not a function
+TypeError: client.sendMessage is not a function
+    at sendCreatorVCard (C:\Users\ARGA\Documents\mybot\bot.js:377:22)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\bot.js:523:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T04:54:26.211Z] ERROR: showMenu is not defined
+ReferenceError: showMenu is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:277:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T04:54:32.397Z] ERROR: showInfo is not defined
+ReferenceError: showInfo is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:308:13)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T04:54:42.140Z] ERROR: showInfo is not defined
+ReferenceError: showInfo is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:308:13)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T04:55:17.974Z] ERROR: getBotUptime is not defined
+ReferenceError: getBotUptime is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:298:33)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T04:59:17.689Z] ERROR: showInfo is not defined
+ReferenceError: showInfo is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:308:13)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T05:07:37.092Z] ERROR: getBotUptime is not defined
+ReferenceError: getBotUptime is not defined
+    at showInfo (C:\Users\ARGA\Documents\mybot\ppp.js:264:40)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:362:19)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T05:07:50.231Z] ERROR: getBotUptime is not defined
+ReferenceError: getBotUptime is not defined
+    at showInfo (C:\Users\ARGA\Documents\mybot\ppp.js:264:40)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:362:19)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T05:07:59.425Z] ERROR: getBotUptime is not defined
+ReferenceError: getBotUptime is not defined
+    at showInfo (C:\Users\ARGA\Documents\mybot\ppp.js:264:40)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:362:19)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T05:09:22.705Z] ERROR: getBotUptime is not defined
+ReferenceError: getBotUptime is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:352:33)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T05:10:26.225Z] ERROR: getBotUptime is not defined
+ReferenceError: getBotUptime is not defined
+    at showInfo (C:\Users\ARGA\Documents\mybot\ppp.js:264:40)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:362:19)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T05:15:31.641Z] ERROR: showInfo is not defined
+ReferenceError: showInfo is not defined
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\ppp.js:341:13)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-01T17:01:02.070Z] ERROR: Cannot read properties of undefined (reading '0')
+TypeError: Cannot read properties of undefined (reading '0')
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\bot.js:573:48)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-02T17:09:38.742Z] ERROR: bot_info is not defined
+ReferenceError: bot_info is not defined
+    at showMyName (C:\Users\ARGA\Documents\mybot\multibot.js:451:46)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\multibot.js:671:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-02T17:09:42.637Z] ERROR: bot_info is not defined
+ReferenceError: bot_info is not defined
+    at showAbout (C:\Users\ARGA\Documents\mybot\multibot.js:447:33)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\multibot.js:668:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-02T18:29:58.285Z] ERROR: bot_info is not defined
+ReferenceError: bot_info is not defined
+    at showAbout (C:\Users\ARGA\Documents\mybot\multibot.js:501:33)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\multibot.js:722:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-02-02T18:30:05.640Z] ERROR: bot_info is not defined
+ReferenceError: bot_info is not defined
+    at showMyName (C:\Users\ARGA\Documents\mybot\multibot.js:505:46)
+    at EventEmitter.<anonymous> (C:\Users\ARGA\Documents\mybot\multibot.js:725:17)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+

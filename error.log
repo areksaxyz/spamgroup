@@ -1,0 +1,163 @@
+[2025-01-30T20:53:05.098Z] ERROR: client.getGroupInfo is not a function
+TypeError: client.getGroupInfo is not a function
+    at getGroupList (file:///C:/Users/ARGA/Documents/mybot/bot.js:120:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:344:41)
+
+[2025-01-30T20:53:19.650Z] ERROR: createAndInviteGroups is not defined
+ReferenceError: createAndInviteGroups is not defined
+    at EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:338:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-30T20:54:23.762Z] ERROR: createAndInviteGroups is not defined
+ReferenceError: createAndInviteGroups is not defined
+    at EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:338:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-30T20:54:34.050Z] ERROR: createAndInviteGroups is not defined
+ReferenceError: createAndInviteGroups is not defined
+    at EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:338:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-30T21:01:39.732Z] ERROR: client.restartService is not a function
+TypeError: client.restartService is not a function
+    at restartBot (file:///C:/Users/ARGA/Documents/mybot/bot.js:185:18)
+    at async EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:368:11)
+
+[2025-01-30T21:05:19.658Z] ERROR: client.getGroupInfo is not a function
+TypeError: client.getGroupInfo is not a function
+    at getGroupList (file:///C:/Users/ARGA/Documents/mybot/bot.js:152:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:376:41)
+
+[2025-01-30T21:07:17.118Z] ERROR: rate-overlimit
+ServerStatusCodeError: rate-overlimit
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:107:31
+    at step (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:49:23)
+    at Object.next (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:30:53)
+    at fulfilled (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:21:58)
+JS Stack: ServerStatusCodeError: rate-overlimit
+    at b.d [as constructor] (https://static.whatsapp.net/rsrc.php/v4/yV/r/bnIOIA0Sd9Z.js:30:217)
+    at new b (https://static.whatsapp.net/rsrc.php/v4/yO/r/1zZHRMr_85m.js:133:253)
+    at https://static.whatsapp.net/rsrc.php/v4i5KK4/yO/l/rt/PsZcB4UeCyz.js:948:5162
+    at Generator.next (<anonymous>)
+    at h (https://static.whatsapp.net/rsrc.php/v4/yu/r/LmxxITglTyu.js:20:125)
+    at g (https://static.whatsapp.net/rsrc.php/v4/yu/r/LmxxITglTyu.js:20:349)
+Function: function (_a) {
+                            var groupName = _a.groupName, contacts = _a.contacts;
+                            return WPP.group.create(groupName, contacts, null);
+                        }
+
+[2025-01-30T21:19:44.742Z] ERROR: client.restartService is not a function
+TypeError: client.restartService is not a function
+    at restartBot (file:///C:/Users/ARGA/Documents/mybot/bot.js:191:18)
+    at async EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:350:11)
+
+[2025-01-30T21:19:55.793Z] ERROR: createAndInviteGroups is not defined
+ReferenceError: createAndInviteGroups is not defined
+    at EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:344:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-30T21:20:01.539Z] ERROR: createAndInviteGroups is not defined
+ReferenceError: createAndInviteGroups is not defined
+    at EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:344:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-30T21:20:21.255Z] ERROR: createAndInviteGroups is not defined
+ReferenceError: createAndInviteGroups is not defined
+    at EventEmitter.<anonymous> (file:///C:/Users/ARGA/Documents/mybot/bot.js:344:11)
+    at EventEmitter.emit (node:events:524:28)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\listener.layer.js:154:87
+
+[2025-01-31T08:58:54.169Z] ERROR: Execution context was destroyed
+Error: Execution context was destroyed
+    at #waitForExecutionContext (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:73:23)
+    at IsolatedWorld.evaluate (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:98:58)
+    at CdpFrame.evaluate (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:348:43)
+    at CdpFrame.<anonymous> (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:109:27)
+    at CdpPage.evaluate (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:812:43)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:99:56
+    at step (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:49:23)
+    at Object.next (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:30:53)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:24:71
+    at new Promise (<anonymous>)
+
+[2025-01-31T08:58:54.187Z] ERROR: Attempted to use detached Frame '951B60C2466FB08FEA07D30A202CDDD6'.
+Error: Attempted to use detached Frame '951B60C2466FB08FEA07D30A202CDDD6'.
+    at CdpFrame.<anonymous> (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:107:23)
+    at CdpPage.evaluate (C:\Users\ARGA\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:812:43)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:99:56
+    at step (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:49:23)
+    at Object.next (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:30:53)
+    at C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:24:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:20:12)
+    at evaluateAndReturn (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:71:12)
+    at Whatsapp.<anonymous> (C:\Users\ARGA\node_modules\@wppconnect-team\wppconnect\dist\api\layers\sender.layer.js:195:82)
+
+[2025-01-31T10:02:09.893Z] ERROR: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (C:\Users\ARGA\Documents\mybot\node_modules\puppeteer-core\lib\cjs\puppeteer\common\Connection.js:316:35)
+    at ExecutionContext._ExecutionContext_evaluate (C:\Users\ARGA\Documents\mybot\node_modules\puppeteer-core\lib\cjs\puppeteer\common\ExecutionContext.js:211:46)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ExecutionContext.evaluate (C:\Users\ARGA\Documents\mybot\node_modules\puppeteer-core\lib\cjs\puppeteer\common\ExecutionContext.js:107:16)
+
+[2025-01-31T11:41:09.758Z] ERROR: wid error: invalid wid
+Error: wid error: invalid wid
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:107:31
+    at step (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:49:23)
+    at Object.next (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:30:53)
+    at fulfilled (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:21:58)
+JS Stack: Error: wid error: invalid wid
+    at h (https://static.whatsapp.net/rsrc.php/v4/yO/r/w_t0SB6TdZS.js:71:191)
+    at new a (https://static.whatsapp.net/rsrc.php/v4/yf/r/rx1nbG9FUgO.js:140:1558)
+    at Object.o [as createWid] (https://static.whatsapp.net/rsrc.php/v4/yf/r/rx1nbG9FUgO.js:142:847)
+    at t.createWid (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect\wa-js\dist\wppconnect-wa.js:2:339260)
+    at t.assertWid (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect\wa-js\dist\wppconnect-wa.js:2:101848)
+    at t.queryExists (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect\wa-js\dist\wppconnect-wa.js:2:255295)
+    at Object.<anonymous> (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:74990)
+    at Generator.next (<anonymous>)
+    at Wt (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58286)
+    at a (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58490)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58551
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58430)
+    at Object.checkNumberStatus (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:75190)
+    at pptr:evaluate;C%3A%5CUsers%5CARGA%5CDocuments%5Cmybot%5Cnode_modules%5C%40wppconnect-team%5Cwppconnect%5Cdist%5Capi%5Chelpers%5Cevaluate-and-return.js%3A99%3A56:56:68
+    at pptr:evaluate;C%3A%5CUsers%5CARGA%5CDocuments%5Cmybot%5Cnode_modules%5C%40wppconnect-team%5Cwppconnect%5Cdist%5Capi%5Chelpers%5Cevaluate-and-return.js%3A99%3A56:56:101
+    at new Promise (<anonymous>)
+    at anonymous (pptr:evaluate;C%3A%5CUsers%5CARGA%5CDocuments%5Cmybot%5Cnode_modules%5C%40wppconnect-team%5Cwppconnect%5Cdist%5Capi%5Chelpers%5Cevaluate-and-return.js%3A99%3A56:54:14)
+Function: function (contactId) { return WAPI.checkNumberStatus(contactId); }
+
+[2025-01-31T11:43:44.872Z] ERROR: wid error: invalid wid
+Error: wid error: invalid wid
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:107:31
+    at step (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:49:23)
+    at Object.next (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:30:53)
+    at fulfilled (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\api\helpers\evaluate-and-return.js:21:58)
+JS Stack: Error: wid error: invalid wid
+    at h (https://static.whatsapp.net/rsrc.php/v4/yO/r/w_t0SB6TdZS.js:71:191)
+    at new a (https://static.whatsapp.net/rsrc.php/v4/yf/r/rx1nbG9FUgO.js:140:1558)
+    at Object.o [as createWid] (https://static.whatsapp.net/rsrc.php/v4/yf/r/rx1nbG9FUgO.js:142:847)
+    at t.createWid (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect\wa-js\dist\wppconnect-wa.js:2:339260)
+    at t.assertWid (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect\wa-js\dist\wppconnect-wa.js:2:101848)
+    at t.queryExists (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect\wa-js\dist\wppconnect-wa.js:2:255295)
+    at Object.<anonymous> (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:74990)
+    at Generator.next (<anonymous>)
+    at Wt (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58286)
+    at a (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58490)
+    at C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58551
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:58430)
+    at Object.checkNumberStatus (C:\Users\ARGA\Documents\mybot\node_modules\@wppconnect-team\wppconnect\dist\lib\wapi\wapi.js:1:75190)
+    at pptr:evaluate;C%3A%5CUsers%5CARGA%5CDocuments%5Cmybot%5Cnode_modules%5C%40wppconnect-team%5Cwppconnect%5Cdist%5Capi%5Chelpers%5Cevaluate-and-return.js%3A99%3A56:56:68
+    at pptr:evaluate;C%3A%5CUsers%5CARGA%5CDocuments%5Cmybot%5Cnode_modules%5C%40wppconnect-team%5Cwppconnect%5Cdist%5Capi%5Chelpers%5Cevaluate-and-return.js%3A99%3A56:56:101
+    at new Promise (<anonymous>)
+    at anonymous (pptr:evaluate;C%3A%5CUsers%5CARGA%5CDocuments%5Cmybot%5Cnode_modules%5C%40wppconnect-team%5Cwppconnect%5Cdist%5Capi%5Chelpers%5Cevaluate-and-return.js%3A99%3A56:54:14)
+Function: function (contactId) { return WAPI.checkNumberStatus(contactId); }
+

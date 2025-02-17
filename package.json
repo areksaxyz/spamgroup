@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@puppeteer/browsers": "^2.7.0",
+    "@wppconnect-team/wppconnect": "^1.35.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.1.1",
+    "puppeteer-core": "^24.1.1",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
